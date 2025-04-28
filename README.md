@@ -1,4 +1,4 @@
-![Gut Microbiota Alterations](https://github.com/HuaChunY/Gut-Microbiota-Alterations-in-Acromegaly-Patients/blob/main/github.tif)
+![Gut Microbiota Alterations](https://github.com/HuaChunY/Gut-Microbiota-Alterations-in-Acromegaly-Patients/raw/main/github.tif)
 
 ---
 
