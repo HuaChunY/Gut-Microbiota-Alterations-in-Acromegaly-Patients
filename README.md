@@ -1,5 +1,4 @@
-![Gut Microbiota Alterations](https://cdn.jsdelivr.net/gh/HuaChunY/Gut-Microbiota-Alterations-in-Acromegaly-Patients/main/github.tif)
-
+![Gut Microbiota Alterations](https://github.com/HuaChunY/Gut-Microbiota-Alterations-in-Acromegaly-Patients/raw/main/github.jpg)
 ---
 
 # Gut Microbiota Alterations in Acromegaly Patients Are Associated with Neutrophil Depletion-Induced Inflammation
